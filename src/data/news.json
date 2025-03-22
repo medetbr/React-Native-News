@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Ay'da Su Kaynağı Keşfi",
+    "author": {
+      "name": "John",
+      "lastname": "Doe",
+      "profileimg": "https://randomuser.me/api/portraits/men/1.jpg",
+      "title": "Astrobiyolog"
+    },
+    "time": "2025-03-21T14:30:00Z",
+    "view": 12456,
+    "description": "Bilim insanları Ay'da devasa bir su kaynağı buldu! Yapılan araştırmalara göre, bu su kaynağı yüzyıllardır bilinmesine rağmen saklanıyordu. Şimdi NASA, bu kaynağı kullanarak Ay'da bir şehir kurmayı planlıyor. Uzmanlar, bu gelişmenin insanlığın uzayda kolonileşmesi için büyük bir adım olduğunu belirtiyor.",
+    "image": "https://fastly.picsum.photos/id/16/2500/1667.jpg?hmac=uAkZwYc5phCRNFTrV_prJ_0rP0EdwJaZ4ctje2bY7aE"
+  },
+  {
+    "id": 2,
+    "title": "Kahve ve Ölümsüzlük",
+    "author": {
+      "name": "Jane",
+      "lastname": "Smith",
+      "profileimg": "https://randomuser.me/api/portraits/women/1.jpg",
+      "title": "Genetik Uzmanı"
+    },
+    "time": "2025-03-20T09:15:00Z",
+    "view": 8754,
+    "description": "Yeni bir araştırma, kahvenin ölümsüzlük sırrı olduğunu ortaya koydu! Harvard Üniversitesi'nden bilim insanları, günde 10 fincan kahve içen insanların biyolojik olarak yaşlanmadığını keşfetti. Araştırmacılar, kahvenin içinde bulunan özel bir molekülün hücre yenilenmesini sağladığını söylüyor.",
+    "image": "https://fastly.picsum.photos/id/63/5000/2813.jpg?hmac=HvaeSK6WT-G9bYF_CyB2m1ARQirL8UMnygdU9W6PDvM"
+  },
+  {
+    "id": 3,
+    "title": "Mars'ta Yaşam Kanıtları",
+    "author": {
+      "name": "Ali",
+      "lastname": "Can",
+      "profileimg": "https://randomuser.me/api/portraits/men/2.jpg",
+      "title": "Mars Araştırma Uzmanı"
+    },
+    "time": "2025-03-19T19:45:00Z",
+    "view": 15487,
+    "description": "NASA, Mars'ta yaşam kanıtlarını bulduğunu duyurdu! Geçtiğimiz hafta yapılan keşifte, Mars yüzeyinde eski uygarlıklara ait kalıntılar bulundu. Uzmanlar, bu kalıntıların yüz binlerce yıl öncesine ait olabileceğini düşünüyor. Eğer doğrulanırsa, bu keşif insanlık tarihini kökten değiştirebilir.",
+    "image": "https://fastly.picsum.photos/id/184/4288/2848.jpg?hmac=l0fKWzmWf6ISTPMEm1WjRdxn35sg6U3GwZLn5lvKhTI"
+  },
+  {
+    "id": 4,
+    "title": "Beyin ve Yapay Zeka Bağlantısı",
+    "author": {
+      "name": "Emily",
+      "lastname": "Johnson",
+      "profileimg": "https://randomuser.me/api/portraits/women/2.jpg",
+      "title": "Sinirbilimci"
+    },
+    "time": "2025-03-18T12:30:00Z",
+    "view": 10456,
+    "description": "Bilim insanları, insan beynini yapay zekaya bağlamanın yolunu keşfetti. Yeni geliştirilen bir teknoloji sayesinde, insanlar artık düşünceleriyle bilgisayarları kontrol edebilecek. Uzmanlar, bu gelişmenin özellikle felçli bireyler için devrim niteliğinde olacağını belirtiyor.",
+    "image": "https://picsum.photos/id/240/200/300"
+  },
+  {
+    "id": 5,
+    "title": "Dünya Düz Mü?",
+    "author": {
+      "name": "Mehmet",
+      "lastname": "Yılmaz",
+      "profileimg": "https://randomuser.me/api/portraits/men/3.jpg",
+      "title": "Fizikçi"
+    },
+    "time": "2025-03-17T08:00:00Z",
+    "view": 9823,
+    "description": "Dünya düz mü? Yeni araştırmalar, şaşırtıcı sonuçlar ortaya koyuyor! Yapılan deneylerde, yerçekiminin sadece belirli bölgelerde etkili olduğu öne sürüldü. Komplo teorisyenleri, bu bulguların yıllardır saklandığını iddia ediyor.",
+    "image": "https://picsum.photos/id/241/200/300"
+  },
+  {
+    "id": 6,
+    "title": "Gelecekteki Elektrikli Araçlar",
+    "author": {
+      "name": "Ahmet",
+      "lastname": "Kara",
+      "profileimg": "https://randomuser.me/api/portraits/men/4.jpg",
+      "title": "Otomotiv Mühendisi"
+    },
+    "time": "2025-03-16T11:00:00Z",
+    "view": 4500,
+    "description": "Yeni elektrikli araç teknolojileri geleceği şekillendiriyor. Tesla, daha verimli bataryalar geliştirdi ve araçların menzilini artırmayı başardı. Bu gelişme, elektrikli araçların daha geniş kitleler tarafından benimsenmesini sağlayabilir.",
+    "image": "https://picsum.photos/id/242/200/300"
+  },
+  {
+    "id": 7,
+    "title": "Yapay Zeka ve Etik",
+    "author": {
+      "name": "Seda",
+      "lastname": "Öztürk",
+      "profileimg": "https://randomuser.me/api/portraits/women/3.jpg",
+      "title": "Yapay Zeka Uzmanı"
+    },
+    "time": "2025-03-15T10:15:00Z",
+    "view": 7683,
+    "description": "Yapay zeka, insanlık için büyük bir fırsat sunuyor, ancak etik sorunları da beraberinde getiriyor. Uzmanlar, yapay zekanın karar verme süreçlerinde insan etkisinin nasıl korunabileceği üzerine çalışmalar yapıyor. Bu, özellikle sağlık ve hukuk sektörlerinde kritik öneme sahip.",
+    "image": "https://picsum.photos/id/243/200/300"
+  },
+  {
+    "id": 8,
+    "title": "İklim Değişikliği ve Tarım",
+    "author": {
+      "name": "Baran",
+      "lastname": "Demir",
+      "profileimg": "https://randomuser.me/api/portraits/men/5.jpg",
+      "title": "Çevre Bilimci"
+    },
+    "time": "2025-03-14T13:45:00Z",
+    "view": 5120,
+    "description": "İklim değişikliği, tarım sektörünü etkileyen büyük bir faktör. Bilim insanları, hava koşullarındaki değişimlerin ürün verimliliği üzerinde nasıl bir etkisi olduğunu araştırıyor. Bu değişikliklere uyum sağlamak için yeni tarım teknikleri geliştirilmesi gerektiği belirtiliyor.",
+    "image": "https://picsum.photos/id/244/200/300"
+  },
+  {
+    "id": 9,
+    "title": "Yeni Nesil Enerji Kaynakları",
+    "author": {
+      "name": "Zeynep",
+      "lastname": "Aksoy",
+      "profileimg": "https://randomuser.me/api/portraits/women/4.jpg",
+      "title": "Enerji Uzmanı"
+    },
+    "time": "2025-03-13T15:00:00Z",
+    "view": 6801,
+    "description": "Yenilenebilir enerji kaynakları, dünya genelinde daha fazla ilgi görmeye başladı. Rüzgar ve güneş enerjisinin daha verimli hale getirilmesi üzerine çalışmalar yapılıyor. Bu yeni nesil enerji kaynakları, fosil yakıtların yerini alabilecek potansiyele sahip.",
+    "image": "https://picsum.photos/id/245/200/300"
+  },
+  {
+    "id": 10,
+    "title": "Kuantum Bilgisayarlar ve Gelecek",
+    "author": {
+      "name": "Cem",
+      "lastname": "Kılıç",
+      "profileimg": "https://randomuser.me/api/portraits/men/6.jpg",
+      "title": "Bilgisayar Bilimci"
+    },
+    "time": "2025-03-12T17:30:00Z",
+    "view": 10532,
+    "description": "Kuantum bilgisayarlar, mevcut bilgisayarların çok ötesinde bir işlem gücü sunuyor. Bu teknoloji, özellikle büyük veri analizi ve yapay zeka alanlarında devrim yaratabilir. Bilim insanları, kuantum bilgisayarların gelecek on yıl içinde hayatımıza büyük bir etki yapacağına inanıyor.",
+    "image": "https://picsum.photos/id/246/200/300"
+  }
+]
